@@ -25,6 +25,9 @@ This room is designed for second-year university students to practice web securi
 ---
 
 ## Overview
+
+**TryHackMe room link:** https://tryhackme.com/jr/webctf2025
+
 `WEB_CTF_2025` is a hands-on CTF-style room that walks students through common web vulnerabilities. Each level gradually increases in complexity and maps to OWASP Top 10 categories. The goal is to teach identification, exploitation (in a controlled lab), and mitigation concepts.
 
 This repository contains a polished writeup students can use as a walkthrough or instructor reference. It does **not** host the vulnerable service — the room runs on a TryHackMe-style VM.
